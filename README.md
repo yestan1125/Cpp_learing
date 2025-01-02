@@ -1,4 +1,4 @@
-# Cpp_learing
+# Cpp_learning
 以下是一份C++语言学习路线图：
 
 ### 基础入门
